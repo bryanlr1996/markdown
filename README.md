@@ -47,3 +47,14 @@ Si queremos **seleccionar todos los registros**, podemos hacerlo haciendo clic e
 
 Para **añadir un nuevo registro**, debemos ir a la parte inferior de la tabla (último registro) y añadir una nueva fila.
 
+
+**4. Cerrar parquet**
+
+Al hacer clic en **Cerrar parquet**, volveremos a la **pantalla inicial** sin guardar los cambios.
+
+**5. Registros duplicados**
+
+Al hacer clic en este botón podemos ver **cuántos registros están duplicados**. 
+
+- Si **no hay duplicados**, se mostrará el mensaje: *"No hay registros duplicados"*.
+- Si **hay duplicados**, se mostrará una **tabla** con dichos registros.
