@@ -30,3 +30,7 @@ Una vez se ejecuta Streamlit, se abre el navegador que tengamos por defecto y ve
 > ❌ **Alerta:**  
 > No tocar en ningún caso la opción "Girar clave".  
 > Esto reinicia la clave y puede dañar el resto de proyectos que la utilicen.
+<br/><br/>
+
+Una vez hemos rellenado los dos campos, le podemos dar a **Buscar Parquet**. Esta acción puede requerir cierto tiempo en función del tamaño del parquet y de si el clúster estaba activo.
+Si se ha podido cargar el parquet, nos mostrará una tabla editable con los registros. En caso de no poder leer el parquet, nos mostrará un error durante 5 segundos y nos devolverá a la pantalla inicial.
