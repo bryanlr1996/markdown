@@ -26,5 +26,6 @@ Una vez se ejecuta Streamlit, se abre el navegador que tengamos por defecto y ve
 
 - **Clave de acceso**: debemos introducir la clave de acceso del storage para poder acceder al parquet. Esta clave la podemos encontrar en Azure, buscando el recurso y accediendo a la sección de Claves de acceso. Debemos hacer clic en **Mostrar**.
 <img width="780" height="417" alt="image" src="https://github.com/user-attachments/assets/c1e6a012-1931-497a-9f68-fc52579f77b4" />
+
 > [!ERROR]
 > No tocar en ningún caso la opción "Girar clave". Esto reinicia la clave y puede dañar el resto de proyectos que la utilicen.
