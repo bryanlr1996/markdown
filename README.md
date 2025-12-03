@@ -13,5 +13,10 @@
 
 <img width="573" height="135" alt="image" src="https://github.com/user-attachments/assets/07c61fe1-0334-45d5-99af-72d96c143b22" />
 
+**2. Cargar archivo parquet**  
 
+Una vez se ejecuta Streamlit, se abre el navegador que tengamos por defecto y veremos un formulario con dos campos:
+
+- **Ruta del parquet**: debemos introducir la ruta donde se encuentra el archivo dentro de Azure DataLake Storage. Tiene que tener el siguiente formato:
+`abfss://<contenedor>@<storage>.dfs.core.windows.net/<ruta hasta el parquet>`
 
