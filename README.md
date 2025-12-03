@@ -22,3 +22,5 @@ Una vez se ejecuta Streamlit, se abre el navegador que tengamos por defecto y ve
 `abfss://<contenedor>@<storage>.dfs.core.windows.net/<ruta hasta el parquet>`
 
 <img width="886" height="43" alt="image" src="https://github.com/user-attachments/assets/557c6371-cc5a-4da6-8cab-6da5becf0054" />
+
+- **Clave de acceso**: debemos introducir la clave de acceso del storage para poder acceder al parquet. Esta clave la podemos encontrar en Azure, buscando el recurso y accediendo a la sección de Claves de acceso. Debemos hacer clic en **Mostrar**.
