@@ -34,3 +34,15 @@ Una vez se ejecuta Streamlit, se abre el navegador que tengamos por defecto y ve
 
 Una vez hemos rellenado los dos campos, le podemos dar a **Buscar Parquet**. Esta acción puede requerir cierto tiempo en función del tamaño del parquet y de si el clúster estaba activo.<br/>
 Si se ha podido cargar el parquet, nos mostrará una tabla editable con los registros. En caso de no poder leer el parquet, nos mostrará un error durante 5 segundos y nos devolverá a la pantalla inicial.
+
+
+**3. Modificar Parquet**
+
+Una vez tengamos el parquet cargado, veremos una **tabla con los registros**. Para editar un campo de un registro, hacemos **doble clic** en la celda correspondiente. 
+
+Para **eliminar registros**, podemos hacer clic en la **primera columna** del registro para seleccionarlo, lo que habilita la opción de eliminar (icono de **papelera** sobre la tabla en el lado derecho). 
+
+Si queremos **seleccionar todos los registros**, podemos hacerlo haciendo clic en la **celda superior izquierda**.
+
+Para **añadir un nuevo registro**, debemos ir a la parte inferior de la tabla (último registro) y añadir una nueva fila.
+
