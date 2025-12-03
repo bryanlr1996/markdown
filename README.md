@@ -58,3 +58,11 @@ Al hacer clic en este botón podemos ver **cuántos registros están duplicados*
 
 - Si **no hay duplicados**, se mostrará el mensaje: *"No hay registros duplicados"*.
 - Si **hay duplicados**, se mostrará una **tabla** con dichos registros.
+
+
+**6. Guardar cambios**
+
+Al hacer clic en este botón, se nos pedirá **introducir el nombre** con el que queremos guardar el parquet. Una vez confirmado, se mostrará el mensaje: *"Archivo preparado para guardar"* y un botón que permite **descargarlo en local**.
+<img width="449" height="359" alt="image" src="https://github.com/user-attachments/assets/b9e0c273-ea91-4798-b0dc-04bc874f7336" />
+
+> 💡 **Nota:** Por ahora, la descarga es **local** y **no modifica el archivo original**.
