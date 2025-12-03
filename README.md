@@ -15,6 +15,7 @@
 <br/><br/>
 
 **2. Cargar archivo parquet**  
+<img width="886" height="258" alt="image" src="https://github.com/user-attachments/assets/e03f502f-c972-430a-b589-cd52fca1225c" />
 
 Una vez se ejecuta Streamlit, se abre el navegador que tengamos por defecto y veremos un formulario con dos campos:
 
