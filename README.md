@@ -6,5 +6,5 @@
 
 ## Guía de uso
 
-1. **Ejecutar el launcher**  
+**1. Ejecutar el launcher**  
    Al hacer clic sobre `launcher.exe`, se abrirá un terminal que comprobará si tenemos un entorno virtual creado. En caso de existir, ejecuta Streamlit. Si no hay un entorno virtual con las dependencias requeridas, crea el entorno e inicia la instalación.
