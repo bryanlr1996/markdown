@@ -20,3 +20,4 @@ Una vez se ejecuta Streamlit, se abre el navegador que tengamos por defecto y ve
 - **Ruta del parquet**: debemos introducir la ruta donde se encuentra el archivo dentro de Azure DataLake Storage. Tiene que tener el siguiente formato:
 `abfss://<contenedor>@<storage>.dfs.core.windows.net/<ruta hasta el parquet>`
 
+<img width="886" height="43" alt="image" src="https://github.com/user-attachments/assets/557c6371-cc5a-4da6-8cab-6da5becf0054" />
