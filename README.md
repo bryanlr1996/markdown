@@ -38,6 +38,7 @@ Si se ha podido cargar el parquet, nos mostrará una tabla editable con los regi
 
 
 **3. Modificar Parquet**
+<img width="1035" height="310" alt="image" src="https://github.com/user-attachments/assets/f3ba8027-f665-4d21-903b-14c78421f43d" />
 
 Una vez tengamos el parquet cargado, veremos una **tabla con los registros**. Para editar un campo de un registro, hacemos **doble clic** en la celda correspondiente. 
 
